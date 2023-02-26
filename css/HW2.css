@@ -1,0 +1,29 @@
+body{
+    linear-gradient(#f3f1f1, #808080);
+    margin-left: 30%;
+}
+
+.menu{
+    margin-left: -0.75%;
+}
+
+header{
+    padding: 1px;
+}
+
+section{
+    linear-gradient(#f3f1f1, #808080);
+    left: 100px;
+}
+
+footer{
+    linear-gradient(#f3f1f1, #808080);
+    color: grey;
+    line-height: 10;
+    margin-left: 20%;
+}
+
+a{
+    color: midnightblue;
+    margin: 10px;
+}

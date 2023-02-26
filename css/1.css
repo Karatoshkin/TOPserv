@@ -1,0 +1,25 @@
+
+body{
+    background-color: #9A5044 ;
+}
+
+header{
+    background: grey;
+    text-align: center;
+}
+
+section{
+    background: cadetblue;
+    text-align: left;
+}
+
+footer{
+    background: chocolate;
+    text-align: center;
+}
+
+a{
+    color: midnightblue;
+    margin: 30px;
+    text-decoration: none;
+}
